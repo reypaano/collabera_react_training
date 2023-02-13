@@ -1,0 +1,41 @@
+{
+  "weatherList": [
+    {
+      "id": 2,
+      "city": "Manila",
+      "temp": 31,
+      "tempType": "C"
+    },
+    {
+      "id": 4,
+      "city": "Pasig",
+      "temp": 38,
+      "tempType": "F"
+    },
+    {
+      "id": 1,
+      "city": "Cebu",
+      "temp": 40,
+      "tempType": "C"
+    },
+    
+    {
+      "id": 3,
+      "city": "Davao",
+      "temp": 30,
+      "tempType": "C"
+    },
+    {
+      "id": 5,
+      "city": "Butuan",
+      "temp": 35,
+      "tempType": "F"
+    },
+    {
+      "id": 6,
+      "city": "Bislig",
+      "temp": 33,
+      "tempType": "C"
+    }
+  ]
+}
